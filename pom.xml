@@ -9,6 +9,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>plugins/com.cloud.bundles.plugin</module>
+		<module>plugins/org.objenesis.objenesis</module>
 		<module>features/com.cloud.bundles.feature</module>
 		<module>features/com.cloud.bundles.feature.source</module>
 		<module>repository</module>

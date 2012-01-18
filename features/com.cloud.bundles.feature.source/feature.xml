@@ -19,4 +19,6 @@
 
    <plugin id="com.cloud.bundles.spring.plugin.source" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
 
+<plugin id="org.objenesis.objenesis.source" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+
 </feature>

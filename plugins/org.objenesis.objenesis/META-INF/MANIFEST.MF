@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Objenesis
+Bundle-SymbolicName: org.objenesis.objenesis
+Bundle-Version: 1.2.0.qualifier
+Bundle-Vendor: Nuvola
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: org.objenesis;version="1.2.0",
+ org.objenesis.instantiator;version="1.2.0",
+ org.objenesis.instantiator.basic;version="1.2.0",
+ org.objenesis.instantiator.gcj;version="1.2.0",
+ org.objenesis.instantiator.jrockit;version="1.2.0",
+ org.objenesis.instantiator.perc;version="1.2.0",
+ org.objenesis.instantiator.sun;version="1.2.0",
+ org.objenesis.strategy;version="1.2.0"

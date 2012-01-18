@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="com.cloud.bundles.spring.f"
-      label="bundles.spring.feature"
+      id="com.cloud.bundles.spring.f.source"
+      label="bundles.spring.feature.source"
       version="1.0.0.qualifier"
       provider-name="Murphy">
 
@@ -17,8 +17,8 @@
       [Enter License Description here.]
    </license>
 
-   <plugin id="com.cloud.bundles.spring.plugin" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+   <plugin id="com.cloud.bundles.spring.plugin.source" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
 
-   <plugin id="org.objenesis.objenesis" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+<plugin id="log4j.log4j.source" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
 
 </feature>
